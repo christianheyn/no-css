@@ -190,3 +190,4 @@ module NoMoreCss.Main where
         writeFile "styles/no-more-css.module.css"  content
         writeFile "styles/no-more-css.scss"        content
         writeFile "styles/no-more-css.less"        content
+        writeFile "gh-pages/no-more-css.css"        content
