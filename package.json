@@ -8,6 +8,8 @@
     "styles/no-more-css.scss",
     "styles/no-more-css.less"
   ],
+  "style": "styles/no-more-css.css",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
