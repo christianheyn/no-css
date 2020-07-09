@@ -1,7 +1,7 @@
 {
   "name": "no-more-css",
   "version": "1.0.2",
-  "description": "Don't write CSS... I done that for you. Just use these CSS classes!",
+  "description": "Don't write CSS... I've already done that for you.",
   "files": [
     "styles/no-more-css.css",
     "styles/no-more-css.module.css",
