@@ -1,6 +1,6 @@
 {
   "name": "no-more-css",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Don't write CSS... I've already done that for you.",
   "files": [
     "styles/no-more-css.css",
