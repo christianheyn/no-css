@@ -1,0 +1,25 @@
+{
+  "name": "no-more-css",
+  "version": "1.0.0",
+  "description": "Don't write CSS... I done that for you. Just use these CSS classes!",
+  "files": [
+    "styles/no-more-css.css",
+    "styles/no-more-css.module.css",
+    "styles/no-more-css.scss",
+    "styles/no-more-css.less"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Christian Heyn",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christianheyn/no-more-css.git"
+  },
+  "bugs": {
+    "url": "https://github.com/christianheyn/no-more-css/issues"
+  },
+  "homepage": "https://github.com/christianheyn/no-more-css#readme"
+}
